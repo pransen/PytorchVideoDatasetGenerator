@@ -21,4 +21,4 @@ The expected directory structure of the dataset is as follows:
         ├── ...
     
        
-Please check the code for an example of how to use the implementation.
+Please check the code for an example on how to use the implementation.
