@@ -9,7 +9,7 @@ The expected directory structure of the dataset is as follows:
     │   ├── video2              
     │   ├── video3
     │   ├── ...
-    │                 \
+    │                
     └── label2
     │   ├── video1             
     │   ├── video2              
