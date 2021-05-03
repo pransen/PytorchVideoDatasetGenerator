@@ -21,6 +21,6 @@ The expected directory structure of the dataset is as follows:
         ├── ...
     
        
-First, run python3 utils/dataset_util.py --root_dir <path to the ROOT_DIR above>.
-This would create a data.csv file containing the paths to the individual videos, the associated label and the number of frames in each video
-For using video_dataset.py, refer to the file for an example.
+* First, run python3 utils/dataset_util.py --root_dir <path to the ROOT_DIR above>. This would create a data.csv file containing the paths to the individual videos, the associated label and the number of frames in each video
+
+* For using video_dataset.py, refer to the file for an example.
