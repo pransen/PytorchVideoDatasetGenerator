@@ -2,7 +2,7 @@
 Implementation of Video Frame Generator in PyTorch. This can be used to train CNN LSTM models, 3D-CNN models and other architectures where both spatial and temporal features are required to be captured.
 
 ## Usage
-The expected directory structure of the dataset is as follows:
+* The expected directory structure of the dataset is as follows:
 
     ROOT DIR
     ├── label1                   
