@@ -1,5 +1,5 @@
 # PytorchVideoDatasetGenerator
-Implementation of Video Frame Generator in PyTorch. This can be used to train CNN LSTM models, 3D-CNN models and other architectures where both spatial and temporal features are required to be captured.
+Implementation of Video Frame Generator in PyTorch. This can be used to train CNN LSTM models, 3D-CNN models and other architectures where both spatial and temporal features are required to be captured. The given implementation best suits for video classification tasks.
 
 ## Usage
 The expected directory structure of the dataset is as follows:
