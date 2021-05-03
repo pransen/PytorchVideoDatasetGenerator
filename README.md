@@ -16,10 +16,10 @@ The expected directory structure of the dataset is as follows:
     │   ├── ...
     │
     ├── label3
-    │   ├── video1
-    │   ├── ...
-    │
-    └── ...
+        ├── video1
+        ├── ...
+    
+
     
     
        
