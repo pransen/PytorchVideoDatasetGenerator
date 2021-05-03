@@ -3,6 +3,7 @@ Implementation of Video Frame Generator in PyTorch
 
 ## Usage
 The expected directory structure of the dataset is as follows:
+
     ROOT DIR
     ├── label1                   
     │   ├── video1             
@@ -18,9 +19,6 @@ The expected directory structure of the dataset is as follows:
     ├── label3
         ├── video1
         ├── ...
-    
-
-    
     
        
 Please check the code for an example of how to use the implementation.
